@@ -1,0 +1,107 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;    
+    margin-bottom: 0.5%;
+    max-width: 80%;
+}
+.logopic {
+    max-width: 70%;
+}
+.home {
+    flex-grow: 1;
+    font-weight: 200;
+    font-size: 0.8em;
+    color: black;
+}
+.features {
+    flex-grow: 1;
+    font-weight: 200;
+    font-size: 0.8em;
+    color: black;
+}
+.pricing {
+    flex-grow: 1;
+    font-weight: 200;
+    font-size: 0.8em;
+}
+.works {
+    flex-grow: 1;
+    font-weight: 200;
+    font-size: 0.8em;
+}
+.support {
+    flex-grow: 1;
+    font-weight: 200;
+    font-size: 0.8em;
+}
+.place {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 2;
+    justify-content: center;
+    margin-right: 100px;
+}
+.a {
+    margin-right: 30px;
+    padding: 5%;
+}
+.into {
+    color: #0850F8;
+}
+.sign {
+    padding: 4%;
+}
+.a-1 {
+    margin-top: 5px;
+    height: 60%;
+    padding: 10%;
+    padding-left: 6px;
+    padding-right: 6px;
+    width: 125%;
+    border: 3px solid #0850F8;
+    border-radius: 10px;
+    font-weight: 200;
+    color: #0850F8;
+    text-align: center;
+}
+.sign-1 {
+    margin-top: 5px;
+    height: 60%;
+    padding: 10%;
+    width: 125%;
+    text-align: center;
+    background-color: #0850F8; 
+    border: 3px solid #0850F8;
+    border-radius: 10px;
+    color: white;
+    font-weight: 200;
+
+}
+
+.a-1 {
+    position: relative;
+}
+
+.sign-1 a {
+    color: white;  
+}
+
+.a-1 a{
+    color: #0850F8;
+    font-weight: thick;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+   
+}
