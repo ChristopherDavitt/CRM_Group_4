@@ -1,0 +1,91 @@
+.flexbox-container{
+    display: flex;
+    align-items: stretch;
+    height: 90vh;
+
+    background-color: white;
+    
+}
+
+h1{
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 55px;
+}
+
+.flexbox-item{
+    width: 200px;
+    margin: 75px;
+  
+    background-color: white;
+}
+
+.signup-part{
+    min-height: 100px;
+    margin-left: 100px;
+    width: 600px;
+    text-align: center;
+}
+
+.email-logo, .user-logo, .password-logo{
+    background-color: white;
+    border: 1px solid black;
+    text-align: left;
+    width: 65%;
+
+    border-radius: 75px;
+    height: 50px;
+}
+
+.password-logo{
+    margin-bottom: 40px;
+}
+
+.sign-up-button{
+    border-radius: 75px;
+    background-color: #0850F8;
+    color: white;
+
+    height: 40px;
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+.flexbox-container-social-media{
+    display: flex;
+
+    justify-content: center;
+    
+}
+
+.facebook{
+    border: 1px solid black;
+    border-radius: 75px;
+}
+.twitter{
+    border: 1px solid black;
+    border-radius: 50px;
+    
+}
+.google{
+    border: 1px solid black;
+    border-radius: 50px;
+    
+}
+.linkedin{
+    border: 1px solid black;
+    border-radius: 50px;
+    
+}
+
+.signup-picture{
+    min-height: 100px;
+    width: 1000px;
+}
+
+/*Right side of the page*/
+
+.signup-picture{
+    margin-top: 150px;
+    
+}
