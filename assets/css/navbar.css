@@ -56,21 +56,21 @@
     padding: 4%;
 }
 .a-1 {
-    margin-top: 6px;
+    margin-top: 5px;
     height: 60%;
     padding: 10%;
     padding-left: 6px;
     padding-right: 6px;
     width: 125%;
     border: 3px solid #0850F8;
-    border-radius: 8px;
+    border-radius: 10px;
     font-weight: 200;
     color: #0850F8;
     text-align: center;
 }
 .sign-1 {
-    margin-top: 6px;
-    height: 55%;
+    margin-top: 5px;
+    height: 60%;
     padding: 10%;
     width: 125%;
     text-align: center;
